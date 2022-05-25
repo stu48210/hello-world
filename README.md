@@ -9,4 +9,6 @@ image here shows the button side of the PCB which is useful
 
 seems the image name cannot contain any whitespace!
 
+Remote text
+
 Last update 2022-05-25
